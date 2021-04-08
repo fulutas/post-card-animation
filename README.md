@@ -1,4 +1,4 @@
-# Post Card Animation
+Post Card Animation
 
 
 # Screenshot
